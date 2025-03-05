@@ -11,6 +11,11 @@ Hiii! Myself Gorbin Mathew. A passionate Aeronautical Engineer who works as a Te
 - Collaborate with Subject Matter Experts to gather information and ensure accuracy in documentation.
 - Review procedures created by fellow writers.
 ### Aviano Pvt.Ltd - Bangalore - (August 2023 - April 2024) - Full time Internship
+- Experience in Technical Authoring for Aerospace domain. 
+- During my training in technical authoring for aircraft maintenance manuals, I gained comprehensive knowledge of creating and editing detailed, user-friendly documents that guide technicians in maintaining and repairing aircraft. My training covered various aspects of technical writing.
+- Illustrations & Diagrams: I gained proficiency in working with visual aids, including diagrams, schematics, and illustrations to complement the textual content.
+- Software Tools: I was trained in the use of specialized authoring tools and software, such as FrameMaker, Adobe InDesign.
+- Skilled in leveraging tools like Snagit, Draw.io, Confluence, and GitHub Wiki for content creation, collaboration, and publishing.
 ## Key Competencies
 1. MadCap Flare
 2. Adobe FrameMaker
