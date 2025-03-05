@@ -17,8 +17,10 @@ Hiii! Myself Gorbin Mathew. A passionate Aeronautical Engineer who works as a Te
 - Software Tools: I was trained in the use of specialized authoring tools and software, such as FrameMaker, Adobe InDesign.
 - Skilled in leveraging tools like Snagit, Draw.io, Confluence, and GitHub Wiki for content creation, collaboration, and publishing.
 ## Key Competencies
-1. MadCap Flare
-2. Adobe FrameMaker
-3. Vangaurd
-4. Catia V5
-5. SolidWorks
+| Developing Software | Supporting Software | Illustration Tools |
+|---------------------|---------------------|--------------------|
+| MadCap Flare        | Draw.io             | Catia V5           |
+| Adobe FrameMaker    | SnagIT              | SolidWorks         |
+| Vanguard            | MS Visio            |                    |
+| MS Word             | CMS                 |                    |
+
