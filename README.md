@@ -23,4 +23,13 @@ Hiii! Myself Gorbin Mathew. A passionate Aeronautical Engineer who works as a Te
 | Adobe FrameMaker    | SnagIT              | SolidWorks         |
 | Vanguard            | MS Visio            |                    |
 | MS Word             | CMS                 |                    |
-
+## Internships
+### ISRO Trivandrum - (February 2023 - April 2023) - Project Intern
+- Calibration of Tri-Sonic Wind Tunnel using AGARD-B Model.
+- Validation of Flow Angularity of wind Tunnel using 5-Hole Probe and analyzing the data using MATLAB.
+### Hindustan Aeronautics Limited (Aerospace Division) - (June 2022 - July 2022) - Internship
+- Gained knowledge regarding Rocket structure manufacturing.
+### Jet Aerospace Pvt.Ltd - (February 2021) - Internship
+- Unmanned Aerial Vehicles technology and testing Research Internship.
+## Projects
+### Designing of Medium Independent Scramjet Engine
