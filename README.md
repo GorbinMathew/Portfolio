@@ -1,9 +1,11 @@
 # Portfolio
 Hiii! Myself Gorbin Mathew. A passionate Aeronautical Engineer who works as a Technical Writer for Oil and Gas Hardware Industry. As a Technical Writer in the oil and gas industry, I am responsible for creating, editing and maintaining technical documentation for various procedures including CVPE and non - CVPE procedures.My primary goal is develop clear, concise and accurate documentation that meets industry standards and regulatory requirements.  Other than my full time job I am passionate about Computer Aided Design and Design Analysis.
+
 ## Education
 1. B.Tech in Aeronautical Engineering - CGPA - 8.47
 2. Higher Secondary - Percentage - 97.6
 3. High School - Percentage - 100
+
 ## Work Experience
 ### Quest Global - Bangalore - (April 2024 - Till now) - Contract Role
 - Create and update Oil and Gas Hardware procedures.
@@ -16,6 +18,7 @@ Hiii! Myself Gorbin Mathew. A passionate Aeronautical Engineer who works as a Te
 - Illustrations & Diagrams: I gained proficiency in working with visual aids, including diagrams, schematics, and illustrations to complement the textual content.
 - Software Tools: I was trained in the use of specialized authoring tools and software, such as FrameMaker, Adobe InDesign.
 - Skilled in leveraging tools like Snagit, Draw.io, Confluence, and GitHub Wiki for content creation, collaboration, and publishing.
+
 ## Key Competencies
 - MadCap Flare
 - Draw.io
@@ -26,6 +29,7 @@ Hiii! Myself Gorbin Mathew. A passionate Aeronautical Engineer who works as a Te
 - Vanguard
 - MS Visio
 - MS Word
+
 ## Internships
 ### ISRO Trivandrum - (February 2023 - April 2023) - Project Intern
 - Calibration of Tri-Sonic Wind Tunnel using AGARD-B Model.
@@ -34,6 +38,7 @@ Hiii! Myself Gorbin Mathew. A passionate Aeronautical Engineer who works as a Te
 - Gained knowledge regarding Rocket structure manufacturing.
 ### Jet Aerospace Pvt.Ltd - (February 2021) - Internship
 - Unmanned Aerial Vehicles technology and testing Research Internship.
+
 ## Projects
 ### 1. Calibration of Trisonic Wind Tunnel
 - During this project we have calibrated the Tri-Sonic wind tunnel using standard AGARD-B model and we have calibrated the flow angularity of the wind tunnel by analyzing the results from 5-Hole pobe using MATLAB software.
