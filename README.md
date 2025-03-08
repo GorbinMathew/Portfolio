@@ -35,11 +35,11 @@ Hiii! Myself Gorbin Mathew. A passionate Aeronautical Engineer who works as a Te
 ### Calibration of Trisonic Wind Tunnel
 - During this project we have calibrated the Tri-Sonic wind tunnel using standard AGARD-B model and we have calibrated the flow angularity of the wind tunnel by analyzing the results from 5-Hole pobe using MATLAB software.
 - As the project was done Indian Space Research Organization we got a better exposure to calibrate on one of India's best wind Tunnels.
-[Project Report](https://github.com/GorbinMathew/Portfolio/blob/695ffc3e4de72c9c741a903230c7c23ddc274044/VSSC%20PROJECT%2030.3.23.pdf)
+- [Project Report](https://github.com/GorbinMathew/Portfolio/blob/695ffc3e4de72c9c741a903230c7c23ddc274044/VSSC%20PROJECT%2030.3.23.pdf)
 ### Designing of Medium Independent Scramjet Engine
 - During this project we have created a basic design for a Scramjet Engine to make it Medium Independent. We have added a two pre-burners in tne wing along with cavity flame holders inside the Scramjet to make the combustion more efficient.
 
 ![MI Scramjet](https://github.com/GorbinMathew/Portfolio/blob/a41c90ce21cdd9e841d179de321efd1d5b49fa85/MI%203.png)
 
 ### Turbine Blade Stress Analysis
-
+- During this project I guided my Juniors regarding the analysis part of Turbine blade stress analysis
