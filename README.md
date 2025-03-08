@@ -33,3 +33,4 @@ Hiii! Myself Gorbin Mathew. A passionate Aeronautical Engineer who works as a Te
 - Unmanned Aerial Vehicles technology and testing Research Internship.
 ## Projects
 ### Designing of Medium Independent Scramjet Engine
+![img Alt](https://github.com/GorbinMathew/Portfolio/blob/a41c90ce21cdd9e841d179de321efd1d5b49fa85/MI%203.png)
