@@ -1,5 +1,5 @@
 title: Gorbin Mathew
 logo: Assets/Gorbin Picture.png
-description: Technical Writer
-#show_downloads: False
+description:      Technical Writer
+show_downloads: False
 theme: jekyll-theme-minimal
