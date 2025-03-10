@@ -38,6 +38,7 @@ Hiii! Myself Gorbin Mathew. A passionate Aeronautical Engineer who works as a Te
 
 ### Hindustan Aeronautics Limited (Aerospace Division) - (June 2022 - July 2022) - Internship
 - Gained knowledge regarding Rocket structure manufacturing.
+- Acquired knowledge on different types of manufacturing processes and different types of weldings.
 
 ### Jet Aerospace Pvt.Ltd - (February 2021) - Internship
 - Unmanned Aerial Vehicles technology and testing Research Internship.
